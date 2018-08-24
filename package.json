@@ -1,0 +1,24 @@
+{
+  "name": "DemoTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.3.1",
+    "history": "^4.7.2",
+    "js-cookie": "^2.2.0",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.4.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^1.1.4"
+  }
+}

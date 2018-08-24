@@ -1,0 +1,127 @@
+body{
+  background-image:url('./image.jpg');
+    background-repeat: no-repeat;
+    height: -webkit-fill-available;
+    background-size: cover;
+  }
+    .color{
+      color: red;
+    }
+.wrapper {
+  background: red;
+}
+.signup{
+  margin:100px auto;
+  width:70%;
+}
+.login{
+  margin: 100px auto;
+  width: 70%;
+}
+.form{
+  text-transform:capitalize;
+  margin: 0 auto;
+  text-align: center
+}
+.home{
+  margin: 100px auto;
+    
+}
+#send{
+  margin-top: 10px;
+}
+.cards{
+  margin: 15px;
+  text-transform:capitalize;
+  height:45px;
+  background:tomato;
+  border-radius: 22px;
+}
+.visible{
+	height:255px;
+	width:267px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+.mbody{
+  height: 192px;
+  background: rgba(255,255,255,0.4);
+}
+.none{
+	display:none;
+}
+.mheader{
+	height:35px;
+	width:100%;
+	background:#262626;
+}
+.mfooter{
+  background: rgba(255,255,255,0.4);
+  border: 1px solid;
+}
+.ub{
+  text-align: -webkit-left;
+}
+.ua{
+  text-align: -webkit-right;
+ 
+}
+.ah5{
+  font-size: 11px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-right: 10px;
+  width: fit-content;
+  background: lightgreen;
+}
+.bh5{
+  font-size: 11px;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 10px;
+  width: fit-content;
+  background:lightsalmon;
+}
+.leftName{
+  text-transform:capitalize;
+  float: left;
+  margin-left: 30px;
+  margin-top: 7px;
+  color: wheat;
+}
+#msg{
+  width: 219px;
+
+}
+.close{
+  color: wheat;
+  margin-right: 20px;
+}
+.online{
+  width: 400px;
+}
+.scrollpanel{
+  height:110px;
+}
+.defaultImg{
+  width: 30%; 
+  float: left; 
+}
+.cardname{
+  width: 70%;
+ float: right;
+  padding-top: 3px;
+}
+.imgpro{
+  height: -webkit-fill-available;
+}
+.send{
+  background-image:url('./send.png');
+  background-repeat: no-repeat;
+  background-size: 85% 100%;
+  height: 26px;
+  width: 45px;
+  position: absolute;
+  bottom: 1;
+}
